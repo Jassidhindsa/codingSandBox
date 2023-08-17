@@ -12,4 +12,4 @@ if __name__ == "__main__":
    binarySearchVal = binary_search([1, 2,5,67,96,100], 67)
 
 
-   print(binarySearchVal)
+   print(fibonacciSumVal)
